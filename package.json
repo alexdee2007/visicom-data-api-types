@@ -1,0 +1,26 @@
+{
+  "name": "@alexdee2007/visicom-data-api-types",
+  "version": "1.0.0",
+  "description": "visicom-data-api-types",
+  "keywords": [
+    "visicom",
+    "api",
+    "types",
+    "typescript"
+  ],
+  "dependencies": {
+    "@types/geojson": "^7946.0.0"
+  },
+  "license": "MIT",
+  "author": "alexdee200580@gmail.com",
+  "contributors": [
+    {
+      "name": "Oleksandr Diachenko",
+      "email": "alexdee200580@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexdee2007/visicom-data-api-types.git"
+  }
+}
